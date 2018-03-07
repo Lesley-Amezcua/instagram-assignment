@@ -1,0 +1,6 @@
+framework module Pods_instagram_assignmentTests {
+  umbrella header "Pods-instagram-assignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
